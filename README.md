@@ -1,5 +1,5 @@
 # Ticket-System-Discord_bot
-Simple discord code bot in python with ticket system feature
+Simple discord code bot in python with ticket system + logs feature
 
 ---
 > HOW TO USE : </br>
