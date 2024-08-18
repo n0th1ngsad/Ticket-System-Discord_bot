@@ -8,7 +8,7 @@ Simple discord code bot in python with ticket system feature
 2. enter discord bot TOKEN
 3. use /setup <enter your ch id> <enter your category id>
 ```
-- preview
+- Preview</br>
 ![image img](/example.png)</br>
 
 # DON'T FORGET TO STAR THIS REPOS :)
