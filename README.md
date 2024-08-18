@@ -9,7 +9,7 @@ Simple discord code bot in python with ticket system feature
 3. use /setup <enter your ch id> <enter your category id>
 ```
 - Preview</br>
-![image img](/example.png)</br>
 ![image img](/example1.png)</br>
+![image img](/example.png)</br>
 
 # DON'T FORGET TO STAR THIS REPOS :)
