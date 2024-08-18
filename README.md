@@ -1,5 +1,5 @@
 # Ticket-System-Discord_bot
-Simple discord code bot in python with ticket system + logs feature
+Simple discord code bot in python with ticket system + logs  feature and support slash command
 
 ---
 > HOW TO USE : </br>
