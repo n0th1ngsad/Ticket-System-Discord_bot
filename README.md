@@ -11,5 +11,6 @@ Simple discord code bot in python with ticket system feature
 - Preview</br>
 ![image img](/example1.png)</br>
 ![image img](/example.png)</br>
+![image img](/example2.png)</br>
 
 # DON'T FORGET TO STAR THIS REPOS :)
